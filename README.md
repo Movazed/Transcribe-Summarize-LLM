@@ -40,3 +40,8 @@ llm = LLM()
 generated_text = llm.generate_text(prompt="Once upon a time")
 
 print(generated_text)
+
+
+
+Replace `Movazed` in the clone URL with your GitHub username, and ensure you have the appropriate licensing information in the `LICENSE` file. Customize the usage examples and other sections as needed to fit your project's specifics.
+
